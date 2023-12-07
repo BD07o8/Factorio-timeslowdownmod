@@ -1,0 +1,11 @@
+{
+    "name": "timeslowdown",
+    "version": "0.0.1",
+    "title": "Time Slow Down",
+    "author": "B_D",
+    "factorio_version": "1.1",
+    "contact": "https://github.com/BD07o8/Factorio-timeslowdownmod",
+    "homepage": "https://github.com/BD07o8/Factorio-timeslowdownmod",
+    "description": "Slow down game speed by small steps. Shift+S to Slowdown Shift + R to Reset",
+    "dependencies": ["base >= 1.1"]
+}
